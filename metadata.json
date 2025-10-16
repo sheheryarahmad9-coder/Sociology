@@ -1,0 +1,5 @@
+{
+  "name": "SociologyTalk AI Chat Community",
+  "description": "An embeddable widget for WordPress that provides a Gemini-powered chat experience for sociology and social research topics, complete with shareable quote cards and a community leaderboard.",
+  "requestFramePermissions": []
+}
